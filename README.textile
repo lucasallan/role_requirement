@@ -1,5 +1,4 @@
-This is the new repository of role_requirement. 
-I'm working to update this gem to works with Rails 3 and the new version of restful_authentication.
+No longer supported. The last version (1.6) is compatible only with Rails 2.3
 
 h1. Role Requirement
 
